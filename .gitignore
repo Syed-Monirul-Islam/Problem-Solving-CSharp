@@ -1,0 +1,21 @@
+## Visual Studio Build Outputs
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio Cache and Configurations
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code settings (if you use it later)
+.vscode/
+
+## Rider/JetBrains settings
+.idea/
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
