@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MainApp
+﻿namespace U_New_Words
 {
-    internal class U_New_Words
+    internal class Program
     {
         static void Main(string[] args)
         {

@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="MainApp/MainApp.csproj" />
+  <Project Path="U_New_Words/U_New_Words.csproj" />
 </Solution>
